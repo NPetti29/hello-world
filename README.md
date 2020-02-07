@@ -1,5 +1,5 @@
 # hello-world
 
-I dont car for hello world tutorial
+I dont care for hello world tutorial
 
 
